@@ -4,7 +4,7 @@
 
 TomatoTimer helps you increase productivity and fight procrastination with Pomodoro Technique.
 
-TomatoTimer encourages you to divide your work time into 25-minute chunks separated by five-minute breaks. By doing that you'll be able to control how much time you spend working on your task. 
+TomatoTimer encourages you to divide your work time into 25-minute chunks separated by five-minute breaks. By doing that you'll be able to control how much time you spend working on your tasks. 
 Every fourth work interval you have to take a longer break of 15 minutes.
 
 The app lets you fully customize these intervals, to completely fill your needs.
